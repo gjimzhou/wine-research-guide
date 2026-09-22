@@ -8,6 +8,7 @@ These notes summarize reusable conclusions rather than any individual's cellar, 
 
 - [Champagne hierarchy and buying logic](guides/champagne-hierarchy.md)
 - [Champagne style and maturity framework](guides/champagne-style-and-maturity.md)
+- [Champagne bottle identification and release verification](guides/champagne-bottle-identification.md)
 - [Rosé Champagne](guides/rose-champagne.md)
 - [Mature bottle provenance](guides/mature-bottle-provenance.md)
 - [Deal evaluation framework](guides/deal-evaluation.md)
