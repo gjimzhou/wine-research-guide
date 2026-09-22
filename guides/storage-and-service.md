@@ -1,77 +1,60 @@
 # Storage and Service
 
-## Long-term Champagne storage
+This page summarizes storage and service questions that were actually discussed around Champagne, d'Yquem, gift boxes, and a home wine cabinet.
 
-The Comité Champagne currently recommends a cool, stable environment of roughly **10–15°C (50–59°F)**, relative humidity around **60–80%**, protection from light, vibration, and odours, and good ventilation.
+## Temperature stability
 
-It also states that Champagne bottles may be stored **upright or on their sides** without affecting wine quality.
+The recurring conclusion was that stable cellar-like temperature matters more than chasing a perfectly flat single number.
 
-These are useful target conditions, not a reason to panic over every small short-term fluctuation.
-
-## Priorities
-
-For a home wine cabinet, prioritize:
-
-1. avoiding sustained heat;
-2. avoiding repeated large temperature swings;
-3. darkness / UV protection;
-4. low vibration;
-5. reliable refrigeration;
-6. sensible humidity.
-
-A cabinet that oscillates modestly around cellar temperature can be preferable to a nominally precise system that is unreliable or regularly overheats.
+A cabinet moving modestly within the low-to-mid 50s °F is not automatically a problem if it avoids sustained heat and large repeated swings.
 
 ## Light
 
-Direct sunlight and strong UV exposure should be minimized. Bottle glass and gift boxes are not substitutes for appropriate placement or window treatment.
+Direct sunlight and strong light exposure should be minimized.
+
+This mattered both for bottles and for presentation boxes kept near a window.
+
+## Humidity
+
+Reasonable humidity is useful, but the practical priority in a home cabinet was:
+
+1. temperature stability;
+2. avoiding heat;
+3. darkness;
+4. low vibration;
+5. sensible humidity.
 
 ## Cabinet organization
 
-Useful principles:
+The storage discussions also covered the fact that Champagne bottles and prestige gift boxes reduce real cabinet capacity.
 
-- put frequently accessed bottles where removal does not disturb the rest of the cellar;
-- reserve larger-clearance shelves for oversized prestige-Champagne bottles and boxes;
-- keep high-value bottles in stable positions away from frequent movement;
-- leave airflow around cooling vents;
-- assume real capacity will be below the advertised Bordeaux-bottle count when storing Champagne, Burgundy bottles, magnums, or presentation boxes.
+Useful organization principles were:
 
-## After transport
+- put frequently accessed bottles where they are easy to remove;
+- reserve larger-clearance shelves for oversized bottles or boxes;
+- keep the best bottles in stable positions where they are not constantly moved;
+- do not treat the manufacturer's Bordeaux-bottle capacity as realistic for a mixed Champagne cellar.
 
-Comité Champagne advises allowing a bottle to settle after long transportation.
+## Serving Champagne
 
-For old still wine with sediment, settling time can also make decanting cleaner, but the appropriate handling depends on the wine and age.
+Mature and prestige Champagne should not be served as cold as possible.
 
-## Serving temperature
+A useful starting point discussed previously was roughly cellar-to-cool serving temperature, around 10–12°C for serious bottles, then allowing the wine to evolve in the glass.
 
-Comité Champagne recommends a general Champagne service temperature of about **8–10°C (46–50°F)**.
+For older Champagne, the tasting can benefit from wider glasses and some warming rather than immediately judging the wine straight from a very cold bottle.
 
-That is a starting point, not a requirement to keep every bottle at the same temperature throughout the tasting. Mature, vinous, or powerful Champagne often becomes more expressive as it warms in the glass.
+## Older Champagne at a tasting
 
-Krug, for example, recommends a warmer **9–12°C** range for its Champagnes and explicitly notes that colder temperatures can limit aroma and flavor expression.
+For mature bottles, the prior discussion favored:
 
-## Glassware
-
-Comité Champagne recommends a tall, bulbous glass narrowing at the top—a tulip-like shape—rather than assuming that a narrow flute is always ideal.
-
-For wine-focused tasting, a broader tulip or white-wine style glass can improve aromatic expression.
-
-## Opening and preserving
-
-For safe opening:
-
-- chill the bottle;
-- keep control of the cork;
-- point away from people and breakable objects;
-- rotate the bottle rather than aggressively twisting the cork;
-- release pressure gently.
-
-After opening, use a purpose-built airtight sparkling-wine stopper. Comité Champagne specifically notes that placing a spoon in the neck does **not** preserve the bubbles.
+- opening rather than aggressively decanting most old Champagne;
+- using wider glasses;
+- allowing evolution in the glass;
+- serving a sequence from younger/lighter to older/more powerful bottles.
 
 ## Sources
 
-Last checked: 2026-09-22.
+- [Comité Champagne — preparing and serving Champagne](https://www.champagne.fr/en/champagne-tasting/preparations-for-drinking-champagne)
+- [Comité Champagne — storage information](https://www.champagne.fr/en/additional%20information/resources/storage-of-champagne-wines)
 
-- [Comité Champagne — preparing, storing, and serving Champagne](https://www.champagne.fr/en/champagne-tasting/preparations-for-drinking-champagne)
-- [Comité Champagne — storage fact sheet](https://www.champagne.fr/en/additional%20information/resources/storage-of-champagne-wines)
-- [Comité Champagne — serving fact sheet](https://www.champagne.fr/system/files/2022-10/Serving%20Champagne.pdf)
-- [Krug iD example — house service guidance](https://www.krug.com/en-int/krug-id/108001)
+The sources are used to verify storage/service topics already discussed; they are not a reason to expand the guide into unrelated cellar-management subjects.
