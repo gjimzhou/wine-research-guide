@@ -1,39 +1,87 @@
 # Champagne Hierarchy and Buying Logic
 
+“Hierarchy” is useful only if it does not collapse fundamentally different products into one prestige ranking. For buying and tasting, separate **release type, vintage, maturity, edition, bottle format, and provenance**.
+
 ## Dom Pérignon
 
-A useful release ladder is:
+Dom Pérignon is vintage-only. The current core distinction is between the normal **Dom Pérignon Vintage** release and later cellar releases such as **Plénitude 2**.
 
-- **P1** — the standard vintage release;
-- **P2** — a later release after extended maturation on lees;
-- **P3** — a much rarer late-release tier.
+Collectors and older literature often describe three “plenitudes” as P1/P2/P3. The first plenitude corresponds conceptually to the initial vintage release, but ordinary current bottles are generally sold as Dom Pérignon Vintage rather than requiring “P1” as the product name.
 
-The important buying point is that these are not merely labels on the same drinking experience. Release timing, disgorgement, storage, provenance, and bottle age can materially change expression and price.
+LVMH currently describes:
+
+- Dom Pérignon Vintage as requiring at least eight years of elaboration;
+- Dom Pérignon Rosé as requiring at least twelve years;
+- Plénitude 2 as requiring at least fifteen years.
+
+### Buying implication
+
+Do not compare a later-disgorged Plénitude 2 only by vintage year against an ordinary earlier release. Additional lees ageing and later release timing are part of the product.
 
 ## Krug
 
-Krug Grande Cuvée should be evaluated by **edition**, not as a generic non-vintage bottle. Older editions can differ meaningfully in composition, maturity, market availability, and price.
+Krug Grande Cuvée should be evaluated by **Édition**, not as a generic non-vintage bottle.
 
-For higher tiers, distinguish among Grande Cuvée editions, Krug Vintage, late-release/older-disgorgement examples where applicable, and single-vineyard wines such as Clos du Mesnil and Clos d'Ambonnay.
+Krug states that the Édition number identifies a specific creation of Grande Cuvée. The 172ème Édition, for example, was composed around the 2016 harvest and blended 146 wines from 11 different years, with reserve wines forming 42% of the final blend.
+
+Useful distinctions include:
+
+- Grande Cuvée by Édition;
+- Krug Vintage;
+- Rosé by Édition;
+- single-vineyard wines such as Clos du Mesnil and Clos d'Ambonnay.
+
+### Buying implication
+
+If a merchant lists only “Krug Grande Cuvée” without the Édition, ask for the back label or Krug iD before comparing price.
 
 ## Louis Roederer Cristal
 
-Cristal's standard vintage release, later releases, and Vinothèque bottlings are best understood as a maturity ladder rather than exact equivalents to another producer's nomenclature.
+Treat standard Cristal, late/library releases, and Vinothèque as separate maturity products.
 
-A rough conceptual analogy sometimes used for orientation is:
+It is tempting to map every producer onto Dom Pérignon's terminology, but that can create false equivalence. A better framework is simply:
 
-- standard Cristal ↔ standard prestige-vintage release;
-- later-release Cristal ↔ extended-maturation release;
-- Vinothèque ↔ very late library release.
+- current/standard vintage release;
+- later cellar release;
+- very late/library release.
 
-This is a positioning analogy, not a claim that production methods are identical.
+Then compare producer-specific methods and release dates separately.
 
 ## Billecart-Salmon
 
-At the prestige end of the range, distinguish among cuvées such as Nicolas François, Louis Salmon Blanc de Blancs, and Clos Saint-Hilaire.
+At the prestige end of the range, distinguish among cuvées such as:
 
-House non-vintage and vintage bottlings can be useful references for producer style, but they occupy a different collecting and pricing tier.
+- Nicolas François;
+- Louis Salmon Blanc de Blancs;
+- Clos Saint-Hilaire.
+
+House non-vintage/multi-vintage and vintage bottlings can be useful references for producer style, but they are different products rather than cheaper versions of the prestige cuvées.
 
 ## Salon and Delamotte
 
-Salon is a benchmark prestige Blanc de Blancs with extremely limited production. Delamotte provides a useful Côte des Blancs comparison at a much lower price point, but should be evaluated as its own wine rather than as a direct substitute for Salon.
+Salon is a prestige Blanc de Blancs released only in selected years. Delamotte provides a useful Côte des Blancs reference at a much lower price point, but it should be evaluated as its own wine rather than as a direct substitute for Salon.
+
+## General buying checklist
+
+For any prestige Champagne, record:
+
+- producer;
+- cuvée;
+- vintage;
+- Édition where applicable;
+- disgorgement/release information where available;
+- bottle size;
+- packaging only if it matters to the buyer;
+- provenance;
+- landed cost.
+
+## Sources
+
+Last checked: 2026-09-22.
+
+- [LVMH — Dom Pérignon maison profile](https://www.lvmh.com/en/our-maisons/wines-spirits/dom-perignon)
+- [Moët Hennessy — Dom Pérignon Plénitude 2](https://www.moet-hennessy.de/de-de/node/3502)
+- [Krug — Grande Cuvée 172ème Édition / Krug iD](https://www.krug.com/en-us/krug-id/123006)
+- [Krug — Grande Cuvée 173ème Édition](https://www.krug.com/en-us/champagne/krug-grande-cuvee-173eme-edition)
+
+Producer terminology changes over time; use the producer's current bottle and official page when identifying a specific release.
