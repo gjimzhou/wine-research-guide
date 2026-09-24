@@ -20,6 +20,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+      - name: Validate site JavaScript
+        run: |
+          node --check assets/runtime.js
+          node --check assets/site-config.js
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload static site
