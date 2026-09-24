@@ -1,5 +1,7 @@
 # Wine Research Guide
 
+**Live site:** https://gjimzhou.github.io/wine-research-guide/
+
 Public research notes distilled from prior ChatGPT discussions about Champagne, d'Yquem, buying, storage, service, and merchant/deal evaluation.
 
 This repository is **not** intended to become a comprehensive wine encyclopedia. A topic belongs here only after it has actually been discussed; external research may verify producer facts or market details but should not create unrelated new subject areas.
