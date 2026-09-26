@@ -4,7 +4,7 @@ const byId=id=>document.getElementById(id);
 const imageUrl=src=>src+(src.includes('?')?'&':'?')+'auto=format&fit=crop&w=1800&q=84';
 const esc=s=>String(s||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
 function navHtml(){return `<a class="brand" href="./"><span class="brand-mark">${esc(cfg.mark)}</span><span>${esc(cfg.shortTitle)}</span></a><nav class="nav-links"><a href="./#stories">Stories</a><a href="./#guides">Library</a><a href="./#scope">Scope</a><a class="nav-github" href="${cfg.repo}" target="_blank" rel="noreferrer">GitHub ↗</a></nav>`}
-function footerHtml(){return `<div>Research distilled from prior discussions · public-safe and discussion-scoped.</div><div>Photography via <a href="https://unsplash.com" target="_blank" rel="noreferrer">Unsplash</a> · <a href="${cfg.repo}" target="_blank" rel="noreferrer">Source repo</a></div>`}
+function footerHtml(){return `<div>© 2026 Junliang Zhou · Original editorial content. <a href="rights.html">Copyright &amp; photography</a>. Public facts excluded; code separately MIT licensed.</div><div>Photography via <a href="https://unsplash.com" target="_blank" rel="noreferrer">Unsplash</a> · <a href="${cfg.repo}" target="_blank" rel="noreferrer">Source repo</a></div>`}
 function guideLink(g){return `guide.html?guide=${encodeURIComponent(g.slug)}`}
 function photoPool(){const seen=new Set();return cfg.guides.filter(g=>{if(seen.has(g.image))return false;seen.add(g.image);return true})}
 function readingMinutes(md){return Math.max(2,Math.round(md.trim().split(/\s+/).length/220))}

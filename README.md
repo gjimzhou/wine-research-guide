@@ -37,3 +37,7 @@ For price research, compare landed cost rather than sticker price alone.
 ## Privacy rule
 
 Do not publish an individual's cellar inventory, purchase history, private merchant correspondence, personal taste profile, or event plans.
+
+## Copyright and reuse
+
+Original editorial content © 2026 Junliang Zhou; all rights reserved in eligible expression. Brief attributed quotation, citation, criticism and sharing links are welcome. Public facts are not proprietary. Functional website code is separately [MIT licensed](LICENSE-CODE). Third-party photography retains its original rights. See [copyright and privacy boundaries](COPYRIGHT.md) and [photo credits and rights status](PHOTO-RIGHTS.md).
