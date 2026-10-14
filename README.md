@@ -23,6 +23,8 @@ These notes preserve reusable conclusions rather than any individual's cellar, p
 - [Storage and service](guides/storage-and-service.md)
 - [Occasion pairing](guides/occasion-pairing.md)
 
+- [Cellar sheet and website methodology](guides/cellar-sheet-and-website-methodology.md)
+
 ## Research standard
 
 Every addition should pass two tests:
